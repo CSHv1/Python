@@ -14,15 +14,15 @@ The project is seperated into four parts:
 
 ## Table of contents
 
-Technologies
-Modules Used
-Launch
-Illustrations
-Scope of Functionalities
-Examples of Use
-Project Status
-Sources
-Additional Information
+[Technologies] (https://github.com/CSHv1/Python/edit/main/README.md) <br />
+Modules Used <br />
+Launch <br /> 
+Illustrations <br />
+Scope of Functionalities <br />
+Examples of Use <br />
+Project Status <br />
+Sources <br />
+Additional Information <br />
 
 ## Technologies
 Code was written in Python (version at time of testing = Python 3.10).
