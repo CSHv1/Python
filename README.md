@@ -14,15 +14,15 @@ The project is seperated into four parts:
 
 ## Table of contents
 
-[Technologies] (https://github.com/CSHv1/Python/edit/main/README.md) <br />
-Modules Used <br />
-Launch <br /> 
-Illustrations <br />
-Scope of Functionalities <br />
-Examples of Use <br />
-Project Status <br />
-Sources <br />
-Additional Information <br />
+[Technologies](https://github.com/CSHv1/Python/edit/main/README.md#technologies) <br />
+[Modules Used](https://github.com/CSHv1/Python/edit/main/README.md#modules-used) <br />
+[Launch](https://github.com/CSHv1/Python/edit/main/README.md#launch) <br /> 
+[Illustrations](https://github.com/CSHv1/Python/edit/main/README.md#illustrations) <br />
+[Scope of Functionalities](https://github.com/CSHv1/Python/edit/main/README.md#scope-of-functionalities) <br />
+[Examples of Use](https://github.com/CSHv1/Python/edit/main/README.md#examples-of-use) <br />
+[Project Status](https://github.com/CSHv1/Python/edit/main/README.md#project-status) <br />
+[Sources](https://github.com/CSHv1/Python/edit/main/README.md#sources) <br />
+[Additional Information](https://github.com/CSHv1/Python/edit/main/README.md#additional-information) <br />
 
 ## Technologies
 Code was written in Python (version at time of testing = Python 3.10).
