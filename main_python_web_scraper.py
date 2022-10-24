@@ -45,7 +45,7 @@ for page in range(0, len(myt_category_pages.top_level_category)):
 
 for url in urls_to_scrape:
 
-    time.sleep(2)
+    time.sleep(1)
 
     k = requests.get(url, headers={"User-Agent": random.choice(user_agents.user_agent_list)})
 
@@ -74,7 +74,7 @@ for url in urls_to_scrape:
 
     # Expression here removes promotional pricing for old price, only extracts current price
     price_list = [price.text for price in price_list if ('old-price' not in str(price))]
-    price_list = [price.replace(',', '').replace('£', '').replace(' ', '') for price in price_list]
+    price_list = [price.replace(',', '').replace('£', '').replace(' ', '').replace('from', '') for price in price_list]
 
     for link in soup.find_all("a", class_="product-image"):
         link_list.append(link.get("href"))
